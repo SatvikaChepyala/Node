@@ -1,0 +1,59 @@
+{"Article": [{
+    "Article Number":1,
+    "Article Name": "Oreo Cookies",
+     "Article Description":"Iconic chocolate sandwich cookies with a sweet cream filling.",
+     "Article Size":"Regular Pack",
+    " Article Units":"1 pack",
+    " Article Values":"Classic flavor with a crunchy texture.",
+    " Article MRP":"$3.99",
+   "Article Expiry Date": "2023-12-06"
+    
+
+},
+{
+    "Article Number":2,
+    "Article Name": "Chips Ahoy! Chocolate Chip Cookies",
+     "Article Description":"Delicious chocolate chip cookies with chunks of chocolate.",
+     "Article Size":"Family Pack",
+    " Article Units":"1 pack",
+    " Article Values":"Loaded with chocolate chips for a satisfying treat.",
+    " Article MRP":"$4.49",
+   "Article Expiry Date": "2023-12-06"
+    
+},
+{
+    
+        "Article Number":3,
+        "Article Name": "Nutter Butter Peanut Butter Sandwich Cookies",
+         "Article Description":"Peanut-shaped cookies with a creamy peanut butter filling.",
+         "Article Size":"Snack Pack",
+        " Article Units":"1 pack",
+        " Article Values":"Classic peanut butter flavor and a fun shape.",
+        " Article MRP":"$3.79",
+       "Article Expiry Date": "2023-12-06"
+        
+},
+{
+   
+    "Article Number":4,
+    "Article Name": "Keebler Fudge Stripes Cookies",
+     "Article Description":"Shortbread cookies with a fudge coating on one side.",
+     "Article Size":"Regular Pack",
+    " Article Units":"1 pack",
+    " Article Values":"Buttery shortbread with a sweet fudge layer.",
+    " Article MRP":"$2.69",
+   "Article Expiry Date": "2023-12-06"
+    
+},
+{
+   
+    "Article Number":5,
+    "Article Name": "Fig Newtons",
+     "Article Description":"Soft, chewy cookies with a fig-filled center.",
+     "Article Size":"Standard Pack",
+    " Article Units":"1 pack",
+    " Article Values":"Unique combination of cakey cookie and fig filling.",
+    " Article MRP":"$2.49",
+   "Article Expiry Date": "2023-12-06"
+    
+}]}
