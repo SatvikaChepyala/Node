@@ -1,12 +1,12 @@
 {"Article": [{
-    "Article_id":1,
-    "Article_Name": "Oreo Cookies",
+     "Article_id":1,
+     "Article_Name": "Oreo Cookies",
      "Article_Description":"Iconic chocolate sandwich cookies with a sweet cream filling.",
      "Article_Size":"Regular Pack",
-    " Article_Units":"1 pack",
-    " Article_Values":"Classic flavor with a crunchy texture.",
-    " Article_MRP":"$3.99",
-   "Article_ExpiryDate": "2023-12-06"
+     "Article_Units":"1 pack",
+     "Article_Values":"Classic flavor with a crunchy texture.",
+     "Article_MRP":"$3.99",
+     "Article_ExpiryDate": "2023-12-06"
     
 
 },
@@ -15,22 +15,22 @@
     "Article_Name": "Chips Ahoy! Chocolate Chip Cookies",
      "Article_Description":"Delicious chocolate chip cookies with chunks of chocolate.",
      "Article_Size":"Family Pack",
-    " Article_Units":"1 pack",
-    " Article_Values":"Loaded with chocolate chips for a satisfying treat.",
-    " Article_MRP":"$4.49",
-   "Article_ExpiryDate": "2023-12-06"
+     "Article_Units":"1 pack",
+     "Article_Values":"Loaded with chocolate chips for a satisfying treat.",
+     "Article_MRP":"$4.49",
+     "Article_ExpiryDate": "2023-12-06"
     
 },
 {
     
-        "Article_id":3,
-        "Article_Name": "Nutter Butter Peanut Butter Sandwich Cookies",
+         "Article_id":3,
+         "Article_Name": "Nutter Butter Peanut Butter Sandwich Cookies",
          "Article_Description":"Peanut-shaped cookies with a creamy peanut butter filling.",
          "Article_Size":"Snack Pack",
-        " Article_Units":"1 pack",
-        " Article_Values":"Classic peanut butter flavor and a fun shape.",
-        " Article_MRP":"$3.79",
-       "Article_ExpiryDate": "2023-12-06"
+         "Article_Units":"1 pack",
+         "Article_Values":"Classic peanut butter flavor and a fun shape.",
+         "Article_MRP":"$3.79",
+        "Article_ExpiryDate": "2023-12-06"
         
 },
 {
@@ -39,10 +39,10 @@
     "Article_Name": "Keebler Fudge Stripes Cookies",
      "Article_Description":"Shortbread cookies with a fudge coating on one side.",
      "Article_Size":"Regular Pack",
-    " Article_Units":"1 pack",
-    " Article_Values":"Buttery shortbread with a sweet fudge layer.",
-    " Article_MRP":"$2.69",
-   "Article_ExpiryDate": "2023-12-06"
+     "Article_Units":"1 pack",
+     "Article_Values":"Buttery shortbread with a sweet fudge layer.",
+     "Article_MRP":"$2.69",
+     "Article_ExpiryDate": "2023-12-06"
     
 },
 {
@@ -51,9 +51,9 @@
     "Article_Name": "Fig Newtons",
      "Article_Description":"Soft, chewy cookies with a fig-filled center.",
      "Article_Size":"Standard Pack",
-    " Article_Units":"1 pack",
-    " Article_Values":"Unique combination of cakey cookie and fig filling.",
-    " Article_MRP":"$2.49",
-   "Article_ExpiryDate": "2023-12-06"
+     "Article_Units":"1 pack",
+     "Article_Values":"Unique combination of cakey cookie and fig filling.",
+     "Article_MRP":"$2.49",
+     "Article_ExpiryDate": "2023-12-06"
     
 }]}
