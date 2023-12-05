@@ -7,8 +7,8 @@
       "Size": "Regular Pack",
       "Units": "1 pack",
       "Values": "Classic flavor with a crunchy texture.",
-      "MRP": "$3.99",
-      "Article_ExpiryDate": "2023-12-06"
+      "MRP": $3.99,
+      "Article_ExpiryDate": 2023-12-06
     },
     {
       "id": 2,
@@ -17,8 +17,8 @@
       "Size": "Family Pack",
       "Units": "1 pack",
       "Values": "Loaded with chocolate chips for a satisfying treat.",
-      "MRP": "$4.49",
-      "ExpiryDate": "2023-12-06"
+      "MRP": $4.49,
+      "ExpiryDate": 2023-12-06
     },
     {
       "id": 3,
@@ -27,8 +27,8 @@
       "Size": "Snack Pack",
       "Units": "1 pack",
       "Values": "Classic peanut butter flavor and a fun shape.",
-      "MRP": "$3.79",
-      "ExpiryDate": "2023-12-06"
+      "MRP": $3.79,
+      "ExpiryDate": 2023-12-06
     },
     {
       "id": 4,
@@ -37,8 +37,8 @@
       "Size": "Regular Pack",
       "Units": "1 pack",
       "Values": "Buttery shortbread with a sweet fudge layer.",
-      "MRP": "$2.69",
-      "ExpiryDate": "2023-12-06"
+      "MRP": $2.69,
+      "ExpiryDate": 2023-12-06
     },
     {
       "id": 5,
@@ -47,8 +47,8 @@
       "Size": "Standard Pack",
       "Units": "1 pack",
       "Values": "Unique combination of cakey cookie and fig filling.",
-      "MRP": "$2.49",
-      "ExpiryDate": "2023-12-06"
+      "MRP": $2.49,
+      "ExpiryDate": 2023-12-06
     }
   ]
 }
